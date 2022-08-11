@@ -1,11 +1,14 @@
-## Hello! 🦉  I'm Jacob, a ***game composer*** turned **product designer** turned **software developer**, currently living in Silicon Valley.
+# Hello! 🦉  I'm Jacob, a ***game composer*** turned ***product designer*** turned ***software developer***, currently living in Silicon Valley.
 
 #### With a focus on front-end development and a mixed bag of experience in other areas of tech, I enjoy using code as a creative tool to bring ideas to life.
 
 #### Passionately curious, I'm always doing my best to learn and grow, and enjoy spending my free time skill building in many other areas including: language studies (currently studying Mandarin and Korean), 3D art/design, photography, creating YouTube videos, and learning to play the violin and cello.
 
+---
+
 Most comfortable technologies:
 - JavaScript
+- HTML / CSS / SCSS
 - React
 - React Native
 - Three.js
