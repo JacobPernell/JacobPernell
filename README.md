@@ -31,8 +31,11 @@ Other software I enjoy using:
 - After Effects
 - Figma
 
-Current Projects:
+Current projects:
 - [Robin](https://github.com/mskalandunas/Robin) - A development practice project, building a basic clone of social media tools such as Hootsuite and Buffer. Responsible for building a local server in Go, connecting to the Facebook API, and building out the front-end UI with React.
+
+Social links:
+- [LinkedIn](https://www.linkedin.com/in/jacobpernell/)
 
 <!--
 Notable Projects:
