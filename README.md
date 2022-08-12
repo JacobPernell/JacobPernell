@@ -42,6 +42,8 @@ Social links:
 Notable Projects:
 - List of portfolio projects here!
 
+[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobpernell)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JacobPernell/JacobPernell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
