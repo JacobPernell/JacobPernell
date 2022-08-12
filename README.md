@@ -33,6 +33,7 @@ Other software I enjoy using:
 
 Current projects:
 - [Robin](https://github.com/mskalandunas/Robin) - A development practice project, building a basic clone of social media tools such as Hootsuite and Buffer. Responsible for building a local server in Go, connecting to the Facebook API, and building out the front-end UI with React.
+- [PomOwl](https://github.com/JacobPernell/OwlPomoElectron) - An owl-themed pomodoro timer desktop app, created with JS/Electron. React Native version is planned.
 
 Social links:
 - [LinkedIn](https://www.linkedin.com/in/jacobpernell/)
