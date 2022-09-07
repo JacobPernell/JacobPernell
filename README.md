@@ -13,10 +13,10 @@ Most comfortable technologies:
 - React Native
 - Three.js
 
-Some experience with:
+Some exposure to:
+- Swift (UIKit & SwiftUI)
 - TypeScript
 - Electron
-- Swift (UIKit & SwiftUI)
 - Python
 - C++ (Unreal Engine, some OpenGL)
 - C# (Unity)
