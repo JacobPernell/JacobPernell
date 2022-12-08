@@ -11,13 +11,13 @@ Most comfortable technologies:
 - HTML / CSS / SCSS
 - React
 - React Native
-- Three.js
 
 Some exposure to:
 - Swift (UIKit & SwiftUI)
 - TypeScript
 - Electron
 - Python
+- Three.js
 - C++ (Unreal Engine, some OpenGL)
 - C# (Unity)
 - Go
@@ -28,6 +28,7 @@ Other software I enjoy using:
 - Zbrush
 - Cinema 4D
 - Blender
+- Substance Designer
 - After Effects
 - Figma
 
